@@ -1,0 +1,4 @@
+﻿  Hangman Game.cpp
+C:\Users\Joseph\OneDrive\C++ projects\Hangman Game\Hangman Game\Hangman Game.cpp(23,13): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+C:\Users\Joseph\OneDrive\C++ projects\Hangman Game\Hangman Game\Hangman Game.cpp(34,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hangman Game.vcxproj -> C:\Users\Joseph\OneDrive\C++ projects\Hangman Game\Debug\Hangman Game.exe
