@@ -20,7 +20,7 @@ string country_names[]{ // the list of country
 	"oman",
 };
 
-void main() {
+int main() {
 	// welcome the user 
 	cout << "\t\t\tHangman Game";
 	cout << " \n\n# Welcome to hangman game........ Guess country name.";
